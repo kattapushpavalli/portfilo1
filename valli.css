@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+header{
+    background-color: black;
+     height:100px;
+     padding:20px;
+} 
+h1{
+    color: white;
+}
+ul li{
+    display: inline;
+    color:bisque;
+    padding:20px;
+}
+ul li a{
+    color:bisque;
+    text-decoration: none;
+}
+#home img{
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+    border-width: 5px;
+    image-orientation: from-image;
+    
+}
+#portfolio{
+    background-color: pink;
+    padding:20px;
+}
+#skills ul li{
+    color:black;
+}
+#footer{
+    background-color: black;
+    height: 20px;
+}
+#contact{
+    display: inline;
+    }
+
+footer{
+    color:aliceblue;
+    background-color: rgb(0, 0, 0);
+    padding:20px;
+    
+}
